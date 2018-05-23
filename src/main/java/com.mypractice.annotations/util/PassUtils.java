@@ -1,6 +1,6 @@
-package util;
+package com.mypractice.annotations.util;
 
-import annotation.UseCase;
+import com.mypractice.annotations.annotation.UseCase;
 
 public class PassUtils {
 

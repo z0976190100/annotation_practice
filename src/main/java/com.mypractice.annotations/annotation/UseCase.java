@@ -1,4 +1,4 @@
-package annotation;
+package com.mypractice.annotations.annotation;
 
 
 import java.lang.annotation.ElementType;

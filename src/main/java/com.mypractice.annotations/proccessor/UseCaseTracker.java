@@ -1,6 +1,6 @@
-package proccessor;
+package com.mypractice.annotations.proccessor;
 
-import annotation.UseCase;
+import com.mypractice.annotations.annotation.UseCase;
 
 import java.lang.reflect.Method;
 import java.util.List;
